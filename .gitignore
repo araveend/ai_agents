@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.pytest_cache/
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+lib64/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.manifest
+*.spec
+
+# C extensions
+*.so
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.coverage.*
+htmlcov/
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Environment variables
+.env
+.flaskenv
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+temp/
